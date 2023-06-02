@@ -40,6 +40,12 @@ nav a:hover {
     color: #e5ddc8;
 }
 
+div {
+    background-image: url("https://github.com/jyee146/practice-repository/blob/main/jakes-begin/assets/jakes-meals.jpg");
+    max-width: 100%;
+    height: 500px;
+}
+
 article {
     padding: 1rem;
 }
