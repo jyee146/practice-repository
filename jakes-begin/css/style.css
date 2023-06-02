@@ -40,8 +40,10 @@ nav a:hover {
     color: #e5ddc8;
 }
 
-div {
+.image {
     background-image: url("https://github.com/jyee146/practice-repository/blob/main/jakes-begin/assets/jakes-meals.jpg");
+    background-repeat: no repeat;
+    background-position: center top;
     max-width: 100%;
     height: 500px;
 }
